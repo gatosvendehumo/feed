@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Gatos Vende Humo</title>
+    <link />
+    <description />
+    <language>es-ar</language>
+    <managingEditor>gatosvendehumo@gmail.com</managingEditor>
+    <webMaster>gatosvendehumo@gmail.com</webMaster>
+    <item>
+      <title>Episodio 1</title>
+      <pubDate>Fri, 31 Aug 2018 12:06:27 -0300</pubDate>
+      <author>gatospodcast@gmail.com</author>
+      <category>Podcast</category>
+      <enclosure url="https://ia601502.us.archive.org/34/items/GatosVendeHumoEpisodio1/Gatos%20Vende%20Humo%20-%20Episodio%201.mp3" length="" type="audio/mpeg" />
+      <description><![CDATA[Primer episodio del podcast!]]></description>
+    </item>
+  </channel>
+</rss>
