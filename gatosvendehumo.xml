@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Gatos Vende Humo</title>
+    <link>https://www.youtube.com/channel/UChb-qePl0C0rrBc_ImuuRGA</link>
+    <description>Podcast en espaniol</description>
+    <language>es-ar</language>
+    <managingEditor>gatospodcast@gmail.com</managingEditor>
+    <webMaster>gatospodcast@gmail.com</webMaster>
+    <image>
+      <title>Gatos Vende Humo</title>
+      <link>https://www.youtube.com/channel/UChb-qePl0C0rrBc_ImuuRGA</link>
+      <url>https://github.com/gatosvendehumo/feed/blob/master/AddText_08-29-01.49.47.JPEG.jpg</url>
+      <width>500</width>
+      <height>500</height>
+    </image>
+    <item>
+      <title>Episodio 2</title>
+      <pubDate>Wed, 12 Sep 2018 12:54:59 -0300</pubDate>
+      <link>https://ia601500.us.archive.org/34/items/GatosVendeHumoEpisodio2/Gatos%20Vende%20Humo%20-%20Episodio%202.mp3</link>
+      <guid isPermaLink="true">https://ia601500.us.archive.org/34/items/GatosVendeHumoEpisodio2/Gatos%20Vende%20Humo%20-%20Episodio%202.mp3</guid>
+      <author>gatospodcast@gmail.com</author>
+      <category>Podcast</category>
+      <enclosure url="https://ia601500.us.archive.org/34/items/GatosVendeHumoEpisodio2/Gatos%20Vende%20Humo%20-%20Episodio%202.mp3" length="302960893" type="audio/mpeg" />
+      <description><![CDATA[Segundo episodio del podcast!]]></description>
+    </item>
+    <item>
+      <title>Episodio 1</title>
+      <pubDate>Fri, 31 Aug 2018 12:06:27 -0300</pubDate>
+      <link>https://ia601502.us.archive.org/34/items/GatosVendeHumoEpisodio1/Gatos%20Vende%20Humo%20-%20Episodio%201.mp3</link>
+      <guid isPermaLink="true">https://ia601502.us.archive.org/34/items/GatosVendeHumoEpisodio1/Gatos%20Vende%20Humo%20-%20Episodio%201.mp3</guid>
+      <author>gatospodcast@gmail.com</author>
+      <category>Podcast</category>
+      <enclosure url="https://ia601502.us.archive.org/34/items/GatosVendeHumoEpisodio1/Gatos%20Vende%20Humo%20-%20Episodio%201.mp3" length="238130199" type="audio/mpeg" />
+      <description><![CDATA[Primer episodio del podcast!]]></description>
+    </item>
+  </channel>
+</rss>
